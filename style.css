@@ -1,10 +1,4 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<title></title>
-</head>
-<body>
-<style>
+
       .header {
   padding: 5px;
   text-align: center;
@@ -68,7 +62,4 @@
 .topnav a.active {
   background-color: #4B0082;
   color: white;
-}  
-      
-      </style>
-</html>
+} 
