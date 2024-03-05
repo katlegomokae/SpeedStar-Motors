@@ -1,10 +1,4 @@
-h2 {
-      color: white;
-}
-h3{
-      color: white;
 
-      ]
       .header {
   padding: 5px;
   text-align: center;
@@ -87,4 +81,7 @@ video {
       color: white;
       padding: 20px;
 }
-      
+
+      h1 {
+            color: white;
+      }
