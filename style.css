@@ -13,6 +13,11 @@
 h {
   color: white;
 }
+#sidebar {
+  width: 200px;
+  float: right;
+  text-align: center;
+}
 
 .topnav {
   overflow: hidden;
