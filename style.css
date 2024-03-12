@@ -10,15 +10,10 @@
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-h2 {
+h {
   color: white;
 }
-h3 {
-  color: white;
-}
-h4 {
-  color: white;
-}
+
 .topnav {
   overflow: hidden;
   background-color: #00008B;
